@@ -1,9 +1,12 @@
-# React + Vite
+# AnimeMangaToon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AnimeMangaToon is a modern web application designed to help users discover, explore, and save their favorite anime, manga, and toon content. With a user-friendly interface, this app allows fans to browse through various titles, filter content by categories, and view popular entries with detailed information.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# animemangatoon
+- Browse anime, manga, and toon content
+- Responsive design for mobile and desktop
+
+## Live Demo
+
+Check out the live demo of the project here: [Live Demo](https://animemangatoon.vercel.app/)
