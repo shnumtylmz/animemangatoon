@@ -59,6 +59,10 @@ h1 span.right {
   margin-bottom: 2%;
 }
 
+#section-content h3{
+  font-size:32px;
+}
+
 #section-content p {
   font-size: 1.2rem;
   margin-bottom: 3%;
@@ -76,7 +80,8 @@ h1 span.right {
 }
 
 .characters {
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
   margin: 3% 0;
 }
 
@@ -89,6 +94,7 @@ h1 span.right {
 
 .characters h4 {
   font-size: x-large;
+  margin-bottom: 5%;
 }
 
 .right-side-content {
